@@ -1,0 +1,19 @@
+input{
+  margin-left: 15px;
+}
+
+
+.linktag{
+  display:flex;
+  justify-content:center;
+  align-content: center;
+  gap:70px;
+  font-size: xx-large;
+
+  
+
+}
+Link:hover{
+  text-decoration: none;
+  color:white
+}
